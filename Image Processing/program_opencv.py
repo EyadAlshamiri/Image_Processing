@@ -159,7 +159,7 @@ class Frame_option :
 # function new image 
 
 def information() : 
-   messagebox.showinfo("information" , "the project was done by : \n Eyad Al-Shamiri \n Turky Al-Shamiri \n Osamah Al-Shamiri \n Mohammed Al-Gabiri \n Supervisor by: Eng.Amjad Al-Yousifi")
+   messagebox.showinfo("information" , "the project was done by : \n Eyad Al-Shamiri \n Bandar Al-Fatesh \n Supervisor by: Eng.Amjad Al-Yousifi")
 
 #---------Define------
 
@@ -248,7 +248,7 @@ def menu():
    filemenu1.add_command(label= "Darck Mode" , command=Mode.dark)
    filemenu1.add_command(label="White Mode" , command=Mode.white )
    
-   menubar.add_cascade(label="Edit", menu= filemenu1)
+   menubar.add_cascade(label="Mode", menu= filemenu1)
    
    filemenu2 =Menu(menubar , tearoff=0)
    filemenu2.add_command(label= "AI" , command=AI1)
