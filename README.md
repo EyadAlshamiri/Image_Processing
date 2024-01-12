@@ -5,6 +5,6 @@
 ![img6](https://github.com/EyadAlshamiri/Image_Processing/assets/151565255/95697504-3771-46c8-9dfc-b5e5d5489b0a)
 
 ملاحضة : الملف الرئيسي (ملف التنفيذ هو (program_opencv )) وباقي الملفات ملفات فرعية يتم استدعائها .
-عمل : إياد فهيم الشميري - بند الفاتش 
+عمل : إياد فهيم الشميري - بندر الفاتش 
 تحت إشراف ألمهندس : أمجد منير أليوسفي   https://github.com/Amgadg714612    amgadmunirabdo@gmail.com 
 
