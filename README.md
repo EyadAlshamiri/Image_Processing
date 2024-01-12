@@ -3,4 +3,7 @@
 ![img4](https://github.com/EyadAlshamiri/Image_Processing/assets/151565255/7aa1206a-bfcd-4e61-b763-1a26e40b260f)
 ![img5](https://github.com/EyadAlshamiri/Image_Processing/assets/151565255/1a2aa899-76bd-469a-b8b3-ec2122d3dd66)
 ![img6](https://github.com/EyadAlshamiri/Image_Processing/assets/151565255/95697504-3771-46c8-9dfc-b5e5d5489b0a)
+
 ملاحضة : الملف الرئيسي (ملف التنفيذ هو (program_opencv )) وباقي الملفات ملفات فرعية يتم استدعائها .
+عمل : إياد فهيم الشميري - بند الفاتش 
+تحت إشراف ألمهندس : أمجد منير أليوسفي  amgadmunirabdo@gmail.com
